@@ -1,2 +1,14 @@
-<h1>Updating the blog</h1>
-<h2>Fruity colors are GO!</h2>
+<html>
+<head>
+</head>
+<body>
+<div>
+	<p>
+		<h1>CSS Exerercise #1</h1>
+	</p>
+	<p>
+		<h3>update ya blog!</h3>	
+	</p>
+</div>
+</body>
+</html>
